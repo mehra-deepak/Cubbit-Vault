@@ -1,0 +1,4 @@
+Safer, together!
+Distributed, secure, encrypted cloud storage.
+A 100% private, secure and green cloud storage solution.
+We crowdsource computing resources via a p2p network to build our distributed architecture.

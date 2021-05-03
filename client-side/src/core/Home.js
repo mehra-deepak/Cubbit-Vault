@@ -1,17 +1,17 @@
-import React from 'react'
-import DragAndDrop from '../Components/DragAndDrop/DragAndDrop'
-import Navbar from '../Components/Navbar/Navbar'
-import Quote from '../Components/Quote/Quote'
-import '../styles.css'
-import Base from './Base'
+import React from 'react';
+import DragAndDrop from '../Components/DragAndDrop/DragAndDrop';
+import Navbar from '../Components/Navbar/Navbar';
+
+import '../styles.css';
+import Base from './Base';
 function Home() {
-    return (
-        <div>
-            <Base/>
-            <Navbar/>
-            <DragAndDrop/>
-        </div>
-    )
+	return (
+		<div>
+			<Base />
+			<Navbar />
+			<DragAndDrop />
+		</div>
+	);
 }
 
-export default Home
+export default Home;
