@@ -35,7 +35,7 @@ Reading along and coding bit by bit, failing and refactoring the code to attain 
 
 3 day long sprint to finish the project with it's totally functionality. P.S : UI is still missing :'), preparing presentation/ demo video and flowcharts.
 
-### Flow Charts
+## Flow Charts
 
 #### For ENCRYPTION
 
@@ -47,10 +47,10 @@ Reading along and coding bit by bit, failing and refactoring the code to attain 
 ![Decryption](https://github.com/mehra-deepak/Cubbit-Vault/blob/main/assets/Decryption.png)
 
 
-### DEMO VIDEO
+## DEMO VIDEO
 
 
-### How To Test This Project
+## How To Test This Project
 
 1) Fork this repository
 
@@ -62,18 +62,18 @@ Reading along and coding bit by bit, failing and refactoring the code to attain 
 
 5) Once node utilities are installed run ```npm start``` on each of the folders.
 
-### References.
+## References.
 
 1) [SHA256Checksum](https://help.ubuntu.com/community/HowToSHA256SUM#:~:text=The%20program%20sha256sum%20is%20designed,is%20less%20vulnerable%20to%20attack.)
 2) [Why Client Side Encryption Is Important](https://www.virtru.com/blog/client-side-encryption/#:~:text=Why%20is%20Client%2DSide%20Encryption%20Important%3F,third%20parties%20on%20the%20Internet.)
 
-### What More Can Be Done
+## What More Can Be Done
 
 1) Enhace the UI 
 2) Perform certain Validation Checks to make sure apps doesnt fails on edge case scenarios.
 3) Additional Dark and Light mode toggle button (this feature is something I'm really interested about :))
 
-### Final Note
+##  Final Note
 
 This was certainly a fun project that really helped me enhance my knowledge and skill set on Web Development, this was certainly not the best delivery and I totally admit that much better could have been done, but given time as a big constraint, I'm happy to atleast make it functional.
 
