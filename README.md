@@ -2,12 +2,7 @@
 
 
 ## INTRODUCTION
-Cubbit Vault is an advanced online file encryption and decryption tool that helps user
-to encrypt files on client side,
-making it less vulnerable in the
-internet space and decreasing it’s
-chances of getting viewed by third
-party.
+Cubbit Vault is advanced online file encryption and decryption tool that helps users to encrypt files on the client-side, making it less vulnerable in the internet space and decreasing its chances of getting viewed by a third party.
 
 Client-side encryption means that the client is
 encrypting the data and NOT sharing the key with
