@@ -42,9 +42,6 @@ Reading along and coding bit by bit, failing and refactoring the code to attain 
 ![Decryption](https://github.com/mehra-deepak/Cubbit-Vault/blob/main/assets/Decryption.png)
 
 
-## DEMO VIDEO
-
-[Click Here for Demo Video](https://drive.google.com/file/d/1DcklKTMuNZJbGezEyoIZJEKxLl8OLNLk/view?usp=sharing)
 
 ## How To Test This Project
 
